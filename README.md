@@ -191,3 +191,5 @@ Please refer to the [CHANGELOG](https://themeselection.com/demo/sneat-bootstrap-
 - Facebook : [https://www.facebook.com/ThemeSelections/](https://www.facebook.com/ThemeSelections/)
 - Pinterest : [https://pinterest.com/themeselect/](https://pinterest.com/themeselect/)
 - Instagram : [https://www.instagram.com/themeselection/](https://www.instagram.com/themeselection/)
+
+That's all folks
