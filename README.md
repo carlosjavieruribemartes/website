@@ -193,3 +193,7 @@ Please refer to the [CHANGELOG](https://themeselection.com/demo/sneat-bootstrap-
 - Instagram : [https://www.instagram.com/themeselection/](https://www.instagram.com/themeselection/)
 
 That's all folks
+
+## Some edits
+
+Yeah, just that!
