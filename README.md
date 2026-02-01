@@ -16,21 +16,21 @@
 
 [![Sneat - Bootstrap 5 HTML Admin Template Demo Screenshot](https://user-images.githubusercontent.com/80033712/153581472-452394ee-327a-4d00-a41a-c6e8036b7096.png)](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/)
 
-## Introduction 🚀
+## Introduction ????
 
-If you’re a developer looking for most Powerful & comprehensive [**Free Bootstrap 5 HTML Admin Template**](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/) built for developers, rich with features, and highly customizable look no further than Sneat. We’ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you’ll be able to build whatever application you want with very little hassle.
+If you???re a developer looking for most Powerful & comprehensive [**Free Bootstrap 5 HTML Admin Template**](https://themeselection.com/products/sneat-free-bootstrap-html-admin-template/) built for developers, rich with features, and highly customizable look no further than Sneat. We???ve followed the highest industry standards to bring you the very best admin template that is not only fast and easy to use but highly scalable. Offering ultimate convenience and flexibility, you???ll be able to build whatever application you want with very little hassle.
 
-Build premium quality applications with ease. Use our innovative [bootstrap admin templates](https://themeselection.com/products/category/bootstrap-admin-templates/) to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they’ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
+Build premium quality applications with ease. Use our innovative [bootstrap admin templates](https://themeselection.com/products/category/bootstrap-admin-templates/) to create eye-catching, high-quality WebApps. Your apps will be completely responsive, ensuring they???ll look stunning and function flawlessly on desktops, tablets, and mobile devices.
 
 [View Demo](https://themeselection.com/demo/sneat-bootstrap-html-admin-template-free/html/)
 
-## Installation ⚒️
+## Installation ??????
 
-Automate time-consuming or repetitive tasks in your development workflow using Gulp 🥤
+Automate time-consuming or repetitive tasks in your development workflow using Gulp ????
 
 > Please note, the use of Node, Webpack & Gulp and their advanced settings are totally optional. You can use and customize the template without using them too.
 
-Installing Node & Gulp and running it is super easy in Sneat, please follow these steps and you should be ready to rock 🤘
+Installing Node & Gulp and running it is super easy in Sneat, please follow these steps and you should be ready to rock ????
 
 1. First of all, make sure you have installed [Node](https://nodejs.org/en/) (LTS). If Node.js is already installed in your system, make sure the installed version is `LTS` and jump to step 2
 
@@ -52,7 +52,7 @@ npm install --legacy-peer-deps
 yarn
 ```
 
-4. Now, you are ready to run `npm` tasks, below command will start the server and watch the code using [browsersync](https://browsersync.io/). Open [http://localhost:3000/](http://localhost:3000/) to check your development 🚀.
+4. Now, you are ready to run `npm` tasks, below command will start the server and watch the code using [browsersync](https://browsersync.io/). Open [http://localhost:3000/](http://localhost:3000/) to check your development ????.
 
 ```bash
 # npm
@@ -62,7 +62,7 @@ npm run serve
 yarn serve
 ```
 
-## Available Tasks 🧑‍💻
+## Available Tasks ???????????
 
 Open console/terminal, go to the Sneat root directory and run `npm run {task_name}`.i.e To generate build run `npm run build`.
 
@@ -70,7 +70,7 @@ Run a task with specified environment(development/production) just execute the t
 
 > **Tip:** Use `npm run` command to list all predefined npm tasks from `package.json` file.
 
-## What's Included 📦
+## What's Included ????
 
 - Dashboard
 - Layouts
@@ -101,7 +101,7 @@ Run a task with specified environment(development/production) just execute the t
   - Horizontal Form
 - Tables
 
-## What's in Premium Version 💎
+## What's in Premium Version ????
 
 | Sneat Free Version                                                                        | Sneat Premium Version                                                                                                            |
 | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -131,11 +131,11 @@ Run a task with specified environment(development/production) just execute the t
 | Regular Support                                                                           | Priority Support                                                                                                                 |
 | Detailed Documentation                                                                    | Detailed Documentation                                                                                                           |
 
-## Documentation 📜
+## Documentation ????
 
 Check out our live [Documentation](https://themeselection.com/demo/sneat-bootstrap-html-admin-template/documentation/)
 
-## Browser Support 🖥️
+## Browser Support ???????
 
 At present, we officially aim to support the last two versions of the following browsers:
 
@@ -145,24 +145,24 @@ At present, we officially aim to support the last two versions of the following 
 - Microsoft Edge (latest)
 - Opera (latest)
 
-## Useful Links 🎁
+## Useful Links ????
 
 - [Freebies](https://themeselection.com/products/category/download-free-admin-templates/)
 - [Download Free Admin Templates](https://themeselection.com/products/category/download-free-admin-templates/)
 - [Bootstrap 5 CheatSheet](https://bootstrap-cheatsheet.themeselection.com/)
 
-## Support 👨‍💻
+## Support ???????????
 
 We use GitHub issues as support tickets to manage Item support.
 
 1. In order to raise the GitHub issue, you must have a github account. [Raise a Issue](https://github.com/themeselection/sneat-html-admin-template-free/issues)
 
-## License ©
+## License ??
 
-- Copyright © [ThemeSelection](https://themeselection.com/)
+- Copyright ?? [ThemeSelection](https://themeselection.com/)
 - Licensed under [MIT](https://github.com/themeselection/sneat-html-admin-template-free/blob/master/LICENSE.md)
 
-## Contributing 🦸
+## Contributing ????
 
 Contribution are always welcome and recommended! Here is how:
 
@@ -170,22 +170,22 @@ Contribution are always welcome and recommended! Here is how:
 - Clone to your machine `git clone https://github.com/YOUR_USERNAME/REPO_URL` Make your changes
 - Create a pull request
 
-### Contribution Requirements 🧰
+### Contribution Requirements ????
 
 - When you contribute, you agree to give a non-exclusive license to ThemeSelection to use that contribution in any context as we (ThemeSelection) see appropriate.
 - If you use content provided by another party, it must be appropriately licensed using an open source license.
 - Contributions are only accepted through Github pull requests.
 - Finally, contributed code must work in all supported browsers.
 
-## Creators 😇
+## Creators ????
 
 - [ThemeSelection](https://themeselection.com)
 
-## Changelog 📆
+## Changelog ????
 
 Please refer to the [CHANGELOG](https://themeselection.com/demo/sneat-bootstrap-html-admin-template-free/changelog.html) file. We will add a detailed release notes to each new release.
 
-## Social Media 🌍
+## Social Media ????
 
 - Twitter : [https://twitter.com/Theme_Selection](https://twitter.com/Theme_Selection)
 - Facebook : [https://www.facebook.com/ThemeSelections/](https://www.facebook.com/ThemeSelections/)
@@ -201,3 +201,5 @@ Yeah, just that!
 ## More edits to this file
 
 Now it's for fun
+
+Changes in local repo
