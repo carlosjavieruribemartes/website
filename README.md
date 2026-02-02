@@ -200,6 +200,4 @@ Yeah, just that!
 
 ## More edits to this file
 
-Now it's for fun
-
-Changes in local repo
+Updates made on main on GitHub before rebase
